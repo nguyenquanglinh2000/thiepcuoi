@@ -802,6 +802,7 @@ body {
     padding: 8px;
     background-color: var(--text-white);
     border-radius: 50%;
+    object-position: center 0;
 }
 .card-title {
     font-size: var(--title-fs);
